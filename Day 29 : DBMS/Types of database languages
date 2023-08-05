@@ -1,0 +1,4 @@
+Data Definition Language: DDL stands for Data Definition Language. It is used to define database structure or pattern.
+Data Manipulation Language: DML stands for Data Manipulation Language. It is used for accessing and manipulating data in a database. It handles user requests.
+Data Control Language: DCL stands for Data Control Language. It is used to retrieve the stored or saved data.
+Transaction Control Language: TCL is used to run the changes made by the DML statement. TCL can be grouped into a logical transaction.

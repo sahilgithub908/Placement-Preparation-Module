@@ -1,0 +1,11 @@
+Database Management System (DBMS) is a software for storing and retrieving users’ data while considering appropriate security measures. It consists of a group of programs which manipulate the database. The DBMS accepts the request for data from an application and instructs the operating system to provide the specific data. In large systems, a DBMS helps users and other third-party software to store and retrieve data.
+
+Advantages:
+
+Improved data sharing
+Improved data security
+Better data integration
+Minimised data inconsistency
+Improved data access
+Improved decision making
+Improved end-user productivity

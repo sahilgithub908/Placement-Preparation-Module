@@ -1,0 +1,12 @@
+A Relational Database Management system (RDBMS) is a database management system that is based on the relational model. It has the following major components: Table, Record/Tuple/Row, Field, and Column/Attribute. Examples of the most popular RDBMS are MYSQL, Oracle, IBM DB2, and Microsoft SQL Server database.
+
+Relational databases have the following properties:
+
+Values are atomic.
+All of the values in a column have the same data type.
+Each row is unique.
+The sequence of columns is insignificant.
+The sequence of rows is insignificant.
+Each column has a unique name.
+Integrity constraints maintain data consistency across multiple tables.
+

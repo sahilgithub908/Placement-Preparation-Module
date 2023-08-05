@@ -1,0 +1,10 @@
+A Deadlock is a situation where each of the computer processes waits for a resource which is being assigned to some other process. In this situation, none of the processes gets executed since the resource it needs is held by some other process which is also waiting for some other resource to be released.
+
+How deadlock is achieved: Deadlock happens when Mutual exclusion, hold and wait, No preemption and circular wait occurs simultaneously.
+
+Necessary Conditions for deadlock:
+
+Mutual Exclusion
+Hold and Wait
+No preemption
+Circular Wait
